@@ -9,5 +9,4 @@ function findHCF(a, b) {
   return hcf;
 }
 
-
 console.log(findHCF(36, 60));
